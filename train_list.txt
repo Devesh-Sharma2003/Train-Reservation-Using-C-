@@ -1,0 +1,24 @@
+                                                         Available Trains
+
+                  		          Name                      Time                    Fare
+
+                               1.  Rajdhani Express. ...            01:00                  Rs.1850
+                               2.  Duronto Express. ...             11:20                  Rs.800
+                               3.  Shatabdi Express. ...            12:30                  Rs.1260
+                               4.  Jan Shatabdi Express. ...        07:45                  Rs.3400
+                               5.  Sampark Kranti Express. ...      08:15                  Rs.1450
+                               6.  Garib Rath Express. ...          16:20                  Rs.540
+                               7.  Humsafar Express. ...            19:15                  Rs.780
+                               8.  Kavi Guru Express. ...           22:00                  Rs.250
+                               9.  Luxury Trains. ...               00:20                  Rs.560
+                               10. Mountain Railway. ...            17:45                  Rs.800
+                               11. Suburban. ...                    14:00                  Rs.1244
+                               12. Mail. ...                        13:10                  Rs.966
+                               13. Passenger. ...                   15:50                  Rs.499
+                               14. Superfast Express. ...           20:40                  Rs.1940
+                               15. Intercity Express. ...           21:10                  Rs.1340
+                               16. Double Decker. ...               16:00                  Rs.1500
+                               17. AC Express. ...                  13:40                  Rs.1890
+                               18. Yuva Express. ...                20:08                  Rs.1701
+                               19. Suvidha Express. ...             22:10                  Rs.700
+                               20. Divya Waqt. ...                  23:15                  Rs.820

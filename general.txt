@@ -1,0 +1,13 @@
+
+
+                                                      Train Availability
+
+
+                                   Train names                         Time             Fare
+
+                               1.  Samprak Kranti                      23:00           Rs.1560
+                               2.  Kavi Guru Express                   02:15           Rs.1700
+                               3.  Humsafar Express                    13:45           Rs.1170
+                               4.  Vande Bharat                        15:00           Rs.1460
+                               5.  Gatiman Express                     08:50           Rs.2250
+

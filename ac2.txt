@@ -1,0 +1,13 @@
+
+
+                                                     Train Availability
+
+
+                                   Train names                           Time             Fare
+
+                               1.  Shatabdi Express                      23:00           Rs.2560
+                               2.  Rajdhani Express                      02:15           Rs.2700
+                               3.  Mahamana Vivek                        13:45           Rs.2170
+                               4.  Rajoriya Kranti                       15:00           Rs.2460
+                               5.  Tejas Rath Express                    08:50           Rs.3250
+

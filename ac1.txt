@@ -1,0 +1,13 @@
+
+
+                                                         Train Availability
+
+
+                                   Train names                           Time             Fare
+
+                               1.  Rajori Express                        23:00           Rs.1560
+                               2.  Chennai Express                       02:15           Rs.1700
+                               3.  Friyangyu Tez                         13:45           Rs.1170
+                               4.  Rajoriya Gadi                         15:00           Rs.1460
+                               5.  Emporium Super Express                08:50           Rs.1250
+
